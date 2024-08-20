@@ -1,4 +1,4 @@
-centos:centos7.9.2009
-
-# tomcat:7.0.61-jre8
+maluuba/tomcat7-java8
+#centos:centos7.9.2009 ok
+# tomcat:7.0.61-jre8 ng
 
