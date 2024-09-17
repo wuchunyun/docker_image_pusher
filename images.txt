@@ -1,6 +1,6 @@
 #registry.cn-hangzhou.aliyuncs.com/acs/maven:3-jdk-8 ok
 #tomcat:7.0.61-jre8 ng
 #maluuba/tomcat7-java8 ok
-#centos:centos7.9.2009 ok
+centos:7.9.2009
 
 
